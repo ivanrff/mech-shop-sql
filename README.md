@@ -1,0 +1,1 @@
+Este projeto tem como objetivo criar um modelo lógico estrutural de uma oficina mecânica e elaborar o script de criação do banco de dados. Por fim, algumas queries serão realizadas em cima dos dados persistidos na DB.
